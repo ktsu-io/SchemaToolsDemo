@@ -1,0 +1,277 @@
+{
+  "SchemaPath": "..\\schema\\weapon.schema.json",
+  "RootSchemaMember": {
+    "Name": "Root",
+    "Typename": "array",
+    "Description": "",
+    "EnumProperties": {
+      "Name": ""
+    },
+    "ArrayProperties": {
+      "ElementTypename": "Weapon",
+      "Container": "cmVectorMap",
+      "Key": "name"
+    }
+  },
+  "Root": [
+    {
+      "name": "Club",
+      "cost": 10,
+      "damageDice": "1d4",
+      "damageType": "Bludgeoning",
+      "weight": 2
+    },
+    {
+      "name": "Dagger",
+      "cost": 200,
+      "damageDice": "1d4",
+      "damageType": "Piercing",
+      "weight": 1
+    },
+    {
+      "name": "Greatclub",
+      "cost": 20,
+      "damageDice": "1d8",
+      "damageType": "Bludgeoning",
+      "weight": 10
+    },
+    {
+      "name": "Handaxe",
+      "cost": 500,
+      "damageDice": "1d6",
+      "damageType": "Slashing",
+      "weight": 2
+    },
+    {
+      "name": "Javelin",
+      "cost": 50,
+      "damageDice": "1d6",
+      "damageType": "Piercing",
+      "weight": 2
+    },
+    {
+      "name": "Light hammer",
+      "cost": 200,
+      "damageDice": "1d4",
+      "damageType": "Bludgeoning",
+      "weight": 2
+    },
+    {
+      "name": "Mace",
+      "cost": 500,
+      "damageDice": "1d6",
+      "damageType": "Bludgeoning",
+      "weight": 4
+    },
+    {
+      "name": "Quarterstaff",
+      "cost": 20,
+      "damageDice": "1d6",
+      "damageType": "Bludgeoning",
+      "weight": 4
+    },
+    {
+      "name": "Sickle",
+      "cost": 100,
+      "damageDice": "1d4",
+      "damageType": "Slashing",
+      "weight": 2
+    },
+    {
+      "name": "Spear",
+      "cost": 100,
+      "damageDice": "1d4",
+      "damageType": "Piercing",
+      "weight": 3
+    },
+    {
+      "name": "Crossbow, light",
+      "cost": 2500,
+      "damageDice": "1d8",
+      "damageType": "Piercing",
+      "weight": 5
+    },
+    {
+      "name": "Dart",
+      "cost": 5,
+      "damageDice": "1d4",
+      "damageType": "Piercing",
+      "weight": 0.25
+    },
+    {
+      "name": "Shortbow",
+      "cost": 2500,
+      "damageDice": "1d6",
+      "damageType": "Piercing",
+      "weight": 2
+    },
+    {
+      "name": "Sling",
+      "cost": 10,
+      "damageDice": "1d4",
+      "damageType": "Bludgeoning",
+      "weight": 0
+    },
+    {
+      "name": "Battleaxe",
+      "cost": 1000,
+      "damageDice": "1d8",
+      "damageType": "Slashing",
+      "weight": 4
+    },
+    {
+      "name": "Flail",
+      "cost": 1000,
+      "damageDice": "1d8",
+      "damageType": "Bludgeoning",
+      "weight": 2
+    },
+    {
+      "name": "Glaive",
+      "cost": 2000,
+      "damageDice": "1d10",
+      "damageType": "Slashing",
+      "weight": 6
+    },
+    {
+      "name": "Greataxe",
+      "cost": 3000,
+      "damageDice": "1d12",
+      "damageType": "Slashing",
+      "weight": 7
+    },
+    {
+      "name": "Greatsword",
+      "cost": 5000,
+      "damageDice": "2d6",
+      "damageType": "Slashing",
+      "weight": 6
+    },
+    {
+      "name": "Halberd",
+      "cost": 2000,
+      "damageDice": "1d10",
+      "damageType": "Slashing",
+      "weight": 6
+    },
+    {
+      "name": "Lance",
+      "cost": 1000,
+      "damageDice": "1d12",
+      "damageType": "Piercing",
+      "weight": 6
+    },
+    {
+      "name": "Longsword",
+      "cost": 1500,
+      "damageDice": "1d8",
+      "damageType": "Slashing",
+      "weight": 3
+    },
+    {
+      "name": "Maul",
+      "cost": 1000,
+      "damageDice": "2d6",
+      "damageType": "Bludgeoning",
+      "weight": 10
+    },
+    {
+      "name": "Morningstar",
+      "cost": 1500,
+      "damageDice": "1d8",
+      "damageType": "Piercing",
+      "weight": 4
+    },
+    {
+      "name": "Pike",
+      "cost": 500,
+      "damageDice": "1d10",
+      "damageType": "Piercing",
+      "weight": 18
+    },
+    {
+      "name": "Rapier",
+      "cost": 2500,
+      "damageDice": "1d8",
+      "damageType": "Piercing",
+      "weight": 2
+    },
+    {
+      "name": "Scimitar",
+      "cost": 2500,
+      "damageDice": "1d6",
+      "damageType": "Slashing",
+      "weight": 3
+    },
+    {
+      "name": "Shortsword",
+      "cost": 1000,
+      "damageDice": "1d6",
+      "damageType": "Piercing",
+      "weight": 2
+    },
+    {
+      "name": "Trident",
+      "cost": 500,
+      "damageDice": "1d6",
+      "damageType": "Slashing",
+      "weight": 4
+    },
+    {
+      "name": "War pick",
+      "cost": 500,
+      "damageDice": "1d8",
+      "damageType": "Piercing",
+      "weight": 2
+    },
+    {
+      "name": "Warhammer",
+      "cost": 1500,
+      "damageDice": "1d8",
+      "damageType": "Bludgeoning",
+      "weight": 2
+    },
+    {
+      "name": "Whip",
+      "cost": 200,
+      "damageDice": "1d4",
+      "damageType": "Slashing",
+      "weight": 3
+    },
+    {
+      "name": "Blowgun",
+      "cost": 1000,
+      "damageDice": "1d1",
+      "damageType": "Piercing",
+      "weight": 1
+    },
+    {
+      "name": "Crossbow, hand",
+      "cost": 7500,
+      "damageDice": "1d6",
+      "damageType": "Piercing",
+      "weight": 3
+    },
+    {
+      "name": "Crossbow, heavy",
+      "cost": 5000,
+      "damageDice": "1d10",
+      "damageType": "Piercing",
+      "weight": 18
+    },
+    {
+      "name": "Longbow",
+      "cost": 5000,
+      "damageDice": "1d8",
+      "damageType": "Piercing",
+      "weight": 2
+    },
+    {
+      "name": "Net",
+      "cost": 100,
+      "damageDice": "1d0",
+      "damageType": "Slashing",
+      "weight": 3
+    }
+  ]
+}

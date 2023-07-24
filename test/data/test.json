@@ -1,0 +1,11 @@
+{
+    "SchemaPath": "..\\schema\\test.schema.json",
+    "RootSchemaMember": {
+        "Typename": "array",
+        "ArrayProperties": {
+            "ElementTypename": "Car"
+        }
+    },
+    "Root": [
+    ]
+}

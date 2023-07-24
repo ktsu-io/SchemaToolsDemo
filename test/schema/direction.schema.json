@@ -1,0 +1,13 @@
+{
+  "Classes": [],
+  "Enums": {
+    "Direction": [
+      "None",
+      "Left",
+      "Right",
+      "Up",
+      "Down"
+    ]
+  },
+  "References": []
+}

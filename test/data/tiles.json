@@ -1,0 +1,230 @@
+{
+  "SchemaPath": "..\\schema\\tile.schema.json",
+  "RootSchemaMember": {
+    "Name": "Root",
+    "Typename": "array",
+    "Description": "",
+    "EnumProperties": {
+      "Name": ""
+    },
+    "ArrayProperties": {
+      "ElementTypename": "Tile",
+      "Container": "cmVectorMap",
+      "Key": "name"
+    }
+  },
+  "Root": [
+    {
+      "name": "dirt",
+      "isBasic": true,
+      "textures": [
+        {
+          "name": "tiles\\greenandsnow\\dirt\\greenandsnow_185.tga",
+          "probability": 100
+        }
+      ],
+      "entitySpawn": [
+        {
+          "name": "",
+          "probability": 100
+        },
+        {
+          "name": "Rock",
+          "probability": 1
+        },
+        {
+          "name": "Stump",
+          "probability": 1
+        },
+        {
+          "name": "Grass",
+          "probability": 5
+        }
+      ]
+    },
+    {
+      "name": "dungeon_floor",
+      "isBasic": true,
+      "textures": [
+        {
+          "name": "tiles\\floor-1.tga",
+          "probability": 90
+        },
+        {
+          "name": "tiles\\floor-2.tga",
+          "probability": 10
+        }
+      ]
+    },
+    {
+      "name": "fence_horizontal",
+      "isBasic": true,
+      "textures": [
+        {
+          "name": "tiles\\fence\\fence_74.tga",
+          "probability": 100
+        }
+      ]
+    },
+    {
+      "name": "fence_vertical_left",
+      "isBasic": true,
+      "textures": [
+        {
+          "name": "tiles\\fence\\fence_81.tga",
+          "probability": 100
+        }
+      ]
+    },
+    {
+      "name": "fence_vertical_right",
+      "isBasic": true,
+      "textures": [
+        {
+          "name": "tiles\\fence\\fence_83.tga",
+          "probability": 100
+        }
+      ]
+    },
+    {
+      "name": "grass",
+      "isBasic": true,
+      "textures": [
+        {
+          "name": "tiles\\greenandsnow\\green\\greenandsnow_01.tga",
+          "probability": 90
+        },
+        {
+          "name": "tiles\\greenandsnow\\green\\greenandsnow_138.tga",
+          "probability": 10
+        }
+      ],
+      "entitySpawn": [
+        {
+          "name": "",
+          "probability": 100
+        },
+        {
+          "name": "Rock",
+          "probability": 1
+        },
+        {
+          "name": "Stump",
+          "probability": 1
+        },
+        {
+          "name": "Tree",
+          "probability": 1
+        },
+        {
+          "name": "Mushroom",
+          "probability": 1
+        },
+        {
+          "name": "Grass",
+          "probability": 20
+        }
+      ]
+    },
+    {
+      "name": "snow",
+      "isBasic": true,
+      "textures": [
+        {
+          "name": "tiles\\greenandsnow\\snow\\greenandsnow_09.tga",
+          "probability": 100
+        }
+      ]
+    },
+    {
+      "name": "stone_wall",
+      "isBasic": true,
+      "textures": [
+        {
+          "name": "tiles\\greenandsnow\\green\\greenandsnow_195.tga",
+          "probability": 50
+        },
+        {
+          "name": "tiles\\greenandsnow\\green\\greenandsnow_196.tga",
+          "probability": 50
+        }
+      ]
+    },
+    {
+      "name": "void",
+      "isBasic": true,
+      "textures": [
+        {
+          "name": "tiles\\dark.tga",
+          "probability": 100
+        }
+      ]
+    },
+    {
+      "name": "water",
+      "isBasic": true,
+      "textures": [
+        {
+          "name": "tiles\\greenandsnow\\snow\\greenandsnow_177.tga",
+          "probability": 100
+        }
+      ]
+    },
+    {
+      "name": "cliff",
+      "isBasic": false,
+      "textures": [
+        {
+          "name": "tiles\\greenandsnow\\green\\greenandsnow_134.tga",
+          "probability": 50
+        },
+        {
+          "name": "tiles\\greenandsnow\\green\\greenandsnow_135.tga",
+          "probability": 50
+        }
+      ]
+    },
+    {
+      "name": "cliff_wall1",
+      "isBasic": false,
+      "textures": [
+        {
+          "name": "tiles\\greenandsnow\\green\\greenandsnow_239.tga",
+          "probability": 50
+        },
+        {
+          "name": "tiles\\greenandsnow\\green\\greenandsnow_240.tga",
+          "probability": 50
+        }
+      ]
+    },
+    {
+      "name": "cliff_wall2",
+      "isBasic": false,
+      "textures": [
+        {
+          "name": "tiles\\greenandsnow\\green\\greenandsnow_217.tga",
+          "probability": 50
+        },
+        {
+          "name": "tiles\\greenandsnow\\green\\greenandsnow_218.tga",
+          "probability": 50
+        }
+      ]
+    },
+    {
+      "name": "cliff_wall3",
+      "isBasic": false,
+      "textures": [
+        {
+          "name": "tiles\\greenandsnow\\green\\greenandsnow_195.tga",
+          "probability": 50
+        },
+        {
+          "name": "tiles\\greenandsnow\\green\\greenandsnow_196.tga",
+          "probability": 50
+        }
+      ]
+    }
+  ]
+}

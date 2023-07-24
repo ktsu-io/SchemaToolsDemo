@@ -1,0 +1,54 @@
+{
+  "SchemaPath": "..\\..\\carbonmonoxide\\assets\\schema\\gradient.schema.json",
+  "RootSchemaMember": {
+    "Name": "Root",
+    "Typename": "array",
+    "Description": "",
+    "EnumProperties": {
+      "Name": ""
+    },
+    "ArrayProperties": {
+      "ElementTypename": "Gradient",
+      "Container": "cmVectorMap",
+      "Key": "name"
+    }
+  },
+  "Root": [
+    {
+      "name": "daylight",
+      "nextId": 6,
+      "points": [
+        {
+          "color": "34376e",
+          "id": 0,
+          "value": 0.20000000298023224
+        },
+        {
+          "color": "bb9e5e",
+          "id": 1,
+          "value": 0.27500000596046448
+        },
+        {
+          "color": "ffffff",
+          "id": 2,
+          "value": 0.30000001192092896
+        },
+        {
+          "color": "ffffff",
+          "id": 3,
+          "value": 0.75
+        },
+        {
+          "color": "bb9e5e",
+          "id": 4,
+          "value": 0.77499997615814209
+        },
+        {
+          "color": "34376e",
+          "id": 5,
+          "value": 0.85000002384185791
+        }
+      ]
+    }
+  ]
+}

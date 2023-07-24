@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Custom.cpp" />
+    <ClInclude Include="EnumSomeEnum.gen.h" />
+    <ClCompile Include="EnumSomeEnum.gen.cpp" />
+    <ClInclude Include="Car.gen.h" />
+    <ClCompile Include="Car.gen.cpp" />
+    <ClInclude Include="CarInternal.gen.h" />
+    <ClCompile Include="CarInternal.gen.cpp" />
+  </ItemGroup>
+</Project>

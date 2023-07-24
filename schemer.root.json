@@ -1,0 +1,9 @@
+{
+    "Schema": "test\\schema",
+    "SchemaClassGeneratorOutput": "test\\SchemaClasses",
+    "SchemaClassGeneratorProject": "test\\SchemaClasses\\SchemaClasses.vcxproj",
+    "Data": "test\\data",
+    "DataSourceGeneratorOutput": "test\\DataSources",
+    "DataSourceGeneratorProject": "test\\DataSources\\DataSources.vcxproj",
+    "PublishedData": "test\\data"
+}

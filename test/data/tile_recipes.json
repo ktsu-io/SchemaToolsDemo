@@ -1,0 +1,4593 @@
+{
+  "SchemaPath": "..\\schema\\tile_recipe.schema.json",
+  "RootSchemaMember": {
+    "Name": "Root",
+    "Typename": "array",
+    "Description": "",
+    "EnumProperties": {
+      "Name": ""
+    },
+    "ArrayProperties": {
+      "ElementTypename": "TileRecipe",
+      "Container": "cmVectorMap",
+      "Key": "id"
+    }
+  },
+  "Root": [
+    {
+      "id": "10155879",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_301.tga"
+    },
+    {
+      "id": "102ce917",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_256.tga"
+    },
+    {
+      "id": "105842cc",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_274.tga"
+    },
+    {
+      "id": "10a93d58",
+      "input": [
+        "water",
+        "water",
+        "grass",
+        "water",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\green\\greenandsnow_93.tga"
+    },
+    {
+      "id": "1364cd42",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_279.tga"
+    },
+    {
+      "id": "13af969",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_274.tga"
+    },
+    {
+      "id": "150aab59",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_274.tga"
+    },
+    {
+      "id": "150f3169",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_274.tga"
+    },
+    {
+      "id": "16486235",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_299.tga"
+    },
+    {
+      "id": "1718f40a",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_301.tga"
+    },
+    {
+      "id": "176d82b7",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_251.tga"
+    },
+    {
+      "id": "177e875e",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_276.tga"
+    },
+    {
+      "id": "18d0c904",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_278.tga"
+    },
+    {
+      "id": "1a273ad8",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_300.tga"
+    },
+    {
+      "id": "1ba9d466",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "stone_wall",
+        "grass",
+        "grass",
+        "water",
+        "stone_wall",
+        "stone_wall"
+      ],
+      "output": "tiles\\greenandsnow\\green\\greenandsnow_92.tga"
+    },
+    {
+      "id": "1c17c22e",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_298.tga"
+    },
+    {
+      "id": "1cf040af",
+      "input": [
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "void",
+        "void",
+        "void"
+      ],
+      "output": "tiles\\floor-bottom-right.tga"
+    },
+    {
+      "id": "1ddb01dc",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_275.tga"
+    },
+    {
+      "id": "1f5ab30d",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_297.tga"
+    },
+    {
+      "id": "203f03db",
+      "input": [
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void"
+      ],
+      "output": "tiles\\floor-right-1.tga"
+    },
+    {
+      "id": "20cce3e7",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_300.tga"
+    },
+    {
+      "id": "20d3f426",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_191.tga"
+    },
+    {
+      "id": "20fd8e3f",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_234.tga"
+    },
+    {
+      "id": "215df1e9",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_277.tga"
+    },
+    {
+      "id": "21f18248",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_234.tga"
+    },
+    {
+      "id": "21f9041c",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_280.tga"
+    },
+    {
+      "id": "2207b250",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_235.tga"
+    },
+    {
+      "id": "222e3382",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_231.tga"
+    },
+    {
+      "id": "2297e0d9",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_301.tga"
+    },
+    {
+      "id": "22ab8b68",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_254.tga"
+    },
+    {
+      "id": "22b56789",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_301.tga"
+    },
+    {
+      "id": "235e3a36",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_300.tga"
+    },
+    {
+      "id": "23b32a6b",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_211.tga"
+    },
+    {
+      "id": "247e4787",
+      "input": [
+        "void",
+        "void",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "void"
+      ],
+      "output": "tiles\\floor-narrow-horizontal.tga"
+    },
+    {
+      "id": "25587714",
+      "input": [
+        "water",
+        "water",
+        "water",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\green\\greenandsnow_159.tga"
+    },
+    {
+      "id": "2609c633",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_275.tga"
+    },
+    {
+      "id": "26bb0851",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_279.tga"
+    },
+    {
+      "id": "27db96fb",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_276.tga"
+    },
+    {
+      "id": "2954b47a",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_254.tga"
+    },
+    {
+      "id": "2a2effd5",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_186.tga"
+    },
+    {
+      "id": "2c9079f6",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_190.tga"
+    },
+    {
+      "id": "2eb324d1",
+      "input": [
+        "water",
+        "water",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\green\\greenandsnow_159.tga"
+    },
+    {
+      "id": "2f1a2397",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_258.tga"
+    },
+    {
+      "id": "313fb497",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_254.tga"
+    },
+    {
+      "id": "3227abec",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_274.tga"
+    },
+    {
+      "id": "339d1b97",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_301.tga"
+    },
+    {
+      "id": "34aa02ad",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_235.tga"
+    },
+    {
+      "id": "353df228",
+      "input": [
+        "stone_wall",
+        "stone_wall",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water"
+      ],
+      "output": "tiles\\greenandsnow\\water\\greenandsnow_224.tga"
+    },
+    {
+      "id": "356c6da5",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_300.tga"
+    },
+    {
+      "id": "363d6436",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_275.tga"
+    },
+    {
+      "id": "38c20507",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_301.tga"
+    },
+    {
+      "id": "3b22085e",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_298.tga"
+    },
+    {
+      "id": "3bb8d2f3",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_274.tga"
+    },
+    {
+      "id": "3c83d974",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_278.tga"
+    },
+    {
+      "id": "3d84dcd0",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_300.tga"
+    },
+    {
+      "id": "3dddf480",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_255.tga"
+    },
+    {
+      "id": "3f1e8457",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_230.tga"
+    },
+    {
+      "id": "3faaff8c",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_274.tga"
+    },
+    {
+      "id": "400b0b4a",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_236.tga"
+    },
+    {
+      "id": "40407334",
+      "input": [
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor"
+      ],
+      "output": "tiles\\floor-left-1.tga"
+    },
+    {
+      "id": "4093085c",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_280.tga"
+    },
+    {
+      "id": "4156159d",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_298.tga"
+    },
+    {
+      "id": "42133106",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_299.tga"
+    },
+    {
+      "id": "42b768ec",
+      "input": [
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void"
+      ],
+      "output": "tiles\\floor-right-1.tga"
+    },
+    {
+      "id": "4331603a",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_280.tga"
+    },
+    {
+      "id": "443aadc7",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_298.tga"
+    },
+    {
+      "id": "4465be67",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_301.tga"
+    },
+    {
+      "id": "4570231e",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_299.tga"
+    },
+    {
+      "id": "47d3d1f6",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_278.tga"
+    },
+    {
+      "id": "47ee5d48",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_297.tga"
+    },
+    {
+      "id": "47ef39e9",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_301.tga"
+    },
+    {
+      "id": "48cd5d65",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_255.tga"
+    },
+    {
+      "id": "4971d658",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_256.tga"
+    },
+    {
+      "id": "4b343e33",
+      "input": [
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "void",
+        "void"
+      ],
+      "output": "tiles\\floor-bottom-1.tga"
+    },
+    {
+      "id": "4bc85c2a",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_230.tga"
+    },
+    {
+      "id": "4c0ad87a",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_301.tga"
+    },
+    {
+      "id": "4c1d86bb",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_300.tga"
+    },
+    {
+      "id": "4c277a29",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_296.tga"
+    },
+    {
+      "id": "4dba57fb",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "stone_wall",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\green\\greenandsnow_137.tga"
+    },
+    {
+      "id": "4dfc2582",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_229.tga"
+    },
+    {
+      "id": "4f489fcc",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_295.tga"
+    },
+    {
+      "id": "4f978b30",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_298.tga"
+    },
+    {
+      "id": "50a01983",
+      "input": [
+        "stone_wall",
+        "stone_wall",
+        "stone_wall",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water"
+      ],
+      "output": "tiles\\greenandsnow\\water\\greenandsnow_224.tga"
+    },
+    {
+      "id": "50d507da",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_301.tga"
+    },
+    {
+      "id": "53474db8",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_299.tga"
+    },
+    {
+      "id": "53a434fc",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_274.tga"
+    },
+    {
+      "id": "543e58c7",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_234.tga"
+    },
+    {
+      "id": "54425f7",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_236.tga"
+    },
+    {
+      "id": "556e4191",
+      "input": [
+        "grass",
+        "stone_wall",
+        "grass",
+        "stone_wall",
+        "water",
+        "stone_wall",
+        "water",
+        "water",
+        "water"
+      ],
+      "output": "tiles\\greenandsnow\\water\\greenandsnow_292.tga"
+    },
+    {
+      "id": "5708080",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_297.tga"
+    },
+    {
+      "id": "5c3e5788",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_299.tga"
+    },
+    {
+      "id": "5c6ffad7",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_254.tga"
+    },
+    {
+      "id": "5cab8009",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_279.tga"
+    },
+    {
+      "id": "5cb8a2c7",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_251.tga"
+    },
+    {
+      "id": "5cc4a09d",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_299.tga"
+    },
+    {
+      "id": "5d4c8994",
+      "input": [
+        "water",
+        "stone_wall",
+        "stone_wall",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water"
+      ],
+      "output": "tiles\\greenandsnow\\water\\greenandsnow_224.tga"
+    },
+    {
+      "id": "5ea08815",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_258.tga"
+    },
+    {
+      "id": "5fdcf010",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_235.tga"
+    },
+    {
+      "id": "6023a2f9",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_280.tga"
+    },
+    {
+      "id": "62cead3c",
+      "input": [
+        "void",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor"
+      ],
+      "output": "tiles\\floor-top-1.tga"
+    },
+    {
+      "id": "63299f06",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_300.tga"
+    },
+    {
+      "id": "6513107b",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_273.tga"
+    },
+    {
+      "id": "65f97be6",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_192.tga"
+    },
+    {
+      "id": "664a8355",
+      "input": [
+        "water",
+        "water",
+        "water",
+        "water",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\green\\greenandsnow_93.tga"
+    },
+    {
+      "id": "665a9cd7",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_231.tga"
+    },
+    {
+      "id": "6681c58b",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_255.tga"
+    },
+    {
+      "id": "66c14b4c",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_273.tga"
+    },
+    {
+      "id": "672bc987",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_229.tga"
+    },
+    {
+      "id": "6772f010",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_233.tga"
+    },
+    {
+      "id": "67937240",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_255.tga"
+    },
+    {
+      "id": "68556dfd",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_298.tga"
+    },
+    {
+      "id": "68a047d5",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_300.tga"
+    },
+    {
+      "id": "6a1b9789",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "stone_wall",
+        "stone_wall"
+      ],
+      "output": "tiles\\greenandsnow\\green\\greenandsnow_137.tga"
+    },
+    {
+      "id": "6a29f6cb",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "stone_wall",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\green\\greenandsnow_03.tga"
+    },
+    {
+      "id": "6a450391",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_295.tga"
+    },
+    {
+      "id": "6b592a3",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_279.tga"
+    },
+    {
+      "id": "6c11e63d",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_297.tga"
+    },
+    {
+      "id": "6c179e05",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_189.tga"
+    },
+    {
+      "id": "6c2dbd95",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_300.tga"
+    },
+    {
+      "id": "6ecced03",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_274.tga"
+    },
+    {
+      "id": "6ee12a30",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_258.tga"
+    },
+    {
+      "id": "6f7120ca",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_253.tga"
+    },
+    {
+      "id": "70146529",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_273.tga"
+    },
+    {
+      "id": "70814209",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_278.tga"
+    },
+    {
+      "id": "71901e9c",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_295.tga"
+    },
+    {
+      "id": "7253794b",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_299.tga"
+    },
+    {
+      "id": "736e9283",
+      "input": [
+        "void",
+        "void",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "void",
+        "void",
+        "void"
+      ],
+      "output": "tiles\\floor-narrow-horizontal-right.tga"
+    },
+    {
+      "id": "73822d0a",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_251.tga"
+    },
+    {
+      "id": "756f78e0",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_251.tga"
+    },
+    {
+      "id": "7706c317",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_252.tga"
+    },
+    {
+      "id": "7765ea30",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_252.tga"
+    },
+    {
+      "id": "78a11a1a",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_230.tga"
+    },
+    {
+      "id": "7912cb36",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_277.tga"
+    },
+    {
+      "id": "799bea83",
+      "input": [
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor"
+      ],
+      "output": "tiles\\floor-left-1.tga"
+    },
+    {
+      "id": "79abd8f5",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_299.tga"
+    },
+    {
+      "id": "7a252902",
+      "input": [
+        "grass",
+        "stone_wall",
+        "stone_wall",
+        "stone_wall",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water"
+      ],
+      "output": "tiles\\greenandsnow\\water\\greenandsnow_269.tga"
+    },
+    {
+      "id": "7acd62ec",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_275.tga"
+    },
+    {
+      "id": "7b7a0363",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_277.tga"
+    },
+    {
+      "id": "7c22cf60",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_298.tga"
+    },
+    {
+      "id": "7d56dc4e",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_299.tga"
+    },
+    {
+      "id": "7f07273c",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_273.tga"
+    },
+    {
+      "id": "7fb71b69",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_296.tga"
+    },
+    {
+      "id": "80bc572b",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_273.tga"
+    },
+    {
+      "id": "80c119d0",
+      "input": [
+        "dungeon_floor",
+        "void",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "void"
+      ],
+      "output": "tiles\\floor-narrow-horizontal.tga"
+    },
+    {
+      "id": "80d5da39",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_273.tga"
+    },
+    {
+      "id": "833cc239",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_274.tga"
+    },
+    {
+      "id": "843b1db3",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_278.tga"
+    },
+    {
+      "id": "85f03d44",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_277.tga"
+    },
+    {
+      "id": "869414f9",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_276.tga"
+    },
+    {
+      "id": "86c5423d",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_298.tga"
+    },
+    {
+      "id": "88c25dbd",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_298.tga"
+    },
+    {
+      "id": "896954c",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_276.tga"
+    },
+    {
+      "id": "89a9ce5a",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_233.tga"
+    },
+    {
+      "id": "89fad75a",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_301.tga"
+    },
+    {
+      "id": "8c12b2dd",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_297.tga"
+    },
+    {
+      "id": "8ca2c87c",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_296.tga"
+    },
+    {
+      "id": "8d22aff",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_253.tga"
+    },
+    {
+      "id": "8f8184e4",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_273.tga"
+    },
+    {
+      "id": "8f8283fb",
+      "input": [
+        "stone_wall",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water"
+      ],
+      "output": "tiles\\greenandsnow\\water\\greenandsnow_180.tga"
+    },
+    {
+      "id": "8fa51fbe",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_298.tga"
+    },
+    {
+      "id": "8ffa5acc",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_274.tga"
+    },
+    {
+      "id": "91624536",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_274.tga"
+    },
+    {
+      "id": "9162a99c",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_274.tga"
+    },
+    {
+      "id": "91e18756",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_299.tga"
+    },
+    {
+      "id": "9293e7f",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_299.tga"
+    },
+    {
+      "id": "92aae2ff",
+      "input": [
+        "grass",
+        "stone_wall",
+        "stone_wall",
+        "grass",
+        "water",
+        "water",
+        "stone_wall",
+        "water",
+        "water"
+      ],
+      "output": "tiles\\greenandsnow\\water\\greenandsnow_269.tga"
+    },
+    {
+      "id": "9314a1ca",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_273.tga"
+    },
+    {
+      "id": "938f6929",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "stone_wall",
+        "stone_wall",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\green\\greenandsnow_137.tga"
+    },
+    {
+      "id": "953d86ba",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_231.tga"
+    },
+    {
+      "id": "9556807a",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_295.tga"
+    },
+    {
+      "id": "95909b78",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_297.tga"
+    },
+    {
+      "id": "95f3fc8a",
+      "input": [
+        "void",
+        "void",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void"
+      ],
+      "output": "tiles\\floor-top-1.tga"
+    },
+    {
+      "id": "9606db00",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_298.tga"
+    },
+    {
+      "id": "97b5dfdd",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_297.tga"
+    },
+    {
+      "id": "97dfaca1",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_295.tga"
+    },
+    {
+      "id": "980cdaac",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_277.tga"
+    },
+    {
+      "id": "9879de40",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_298.tga"
+    },
+    {
+      "id": "9924ccea",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_232.tga"
+    },
+    {
+      "id": "9aee60c0",
+      "input": [
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "void",
+        "dungeon_floor",
+        "void",
+        "void"
+      ],
+      "output": "tiles\\floor-floating.tga"
+    },
+    {
+      "id": "9b08fef8",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_299.tga"
+    },
+    {
+      "id": "9c6792e9",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_273.tga"
+    },
+    {
+      "id": "9fed39b9",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_280.tga"
+    },
+    {
+      "id": "a117f933",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_274.tga"
+    },
+    {
+      "id": "a13a81ca",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_229.tga"
+    },
+    {
+      "id": "a171e319",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_230.tga"
+    },
+    {
+      "id": "a20f0c44",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_279.tga"
+    },
+    {
+      "id": "a26c0f63",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_275.tga"
+    },
+    {
+      "id": "a2e57dfa",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_232.tga"
+    },
+    {
+      "id": "a485a9af",
+      "input": [
+        "void",
+        "void",
+        "void",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor"
+      ],
+      "output": "tiles\\floor-top-left.tga"
+    },
+    {
+      "id": "a5770823",
+      "input": [
+        "grass",
+        "grass",
+        "stone_wall",
+        "grass",
+        "grass",
+        "water",
+        "grass",
+        "stone_wall",
+        "water"
+      ],
+      "output": "tiles\\greenandsnow\\green\\greenandsnow_91.tga"
+    },
+    {
+      "id": "a5a9851f",
+      "input": [
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "void",
+        "void"
+      ],
+      "output": "tiles\\floor-bottom-left.tga"
+    },
+    {
+      "id": "a64c5d27",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_257.tga"
+    },
+    {
+      "id": "a70b20a0",
+      "input": [
+        "water",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\green\\greenandsnow_05.tga"
+    },
+    {
+      "id": "a79124d",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_252.tga"
+    },
+    {
+      "id": "a7c68967",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "stone_wall",
+        "stone_wall",
+        "stone_wall"
+      ],
+      "output": "tiles\\greenandsnow\\green\\greenandsnow_137.tga"
+    },
+    {
+      "id": "a7cd486e",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_297.tga"
+    },
+    {
+      "id": "a809f2c7",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_256.tga"
+    },
+    {
+      "id": "a8c32a5d",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_298.tga"
+    },
+    {
+      "id": "a9210682",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_257.tga"
+    },
+    {
+      "id": "a95d1f77",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_253.tga"
+    },
+    {
+      "id": "a9672384",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_273.tga"
+    },
+    {
+      "id": "aa1b9ac9",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_295.tga"
+    },
+    {
+      "id": "aa29fa2a",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_301.tga"
+    },
+    {
+      "id": "aa6c716d",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_297.tga"
+    },
+    {
+      "id": "ae56f6ea",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_301.tga"
+    },
+    {
+      "id": "b2856ac7",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_232.tga"
+    },
+    {
+      "id": "b315f6fa",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "stone_wall",
+        "stone_wall",
+        "stone_wall",
+        "water"
+      ],
+      "output": "tiles\\greenandsnow\\green\\greenandsnow_91.tga"
+    },
+    {
+      "id": "b370605e",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_297.tga"
+    },
+    {
+      "id": "b38ce02d",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_298.tga"
+    },
+    {
+      "id": "b3e7035",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_300.tga"
+    },
+    {
+      "id": "b40bf097",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_233.tga"
+    },
+    {
+      "id": "b42473ac",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_275.tga"
+    },
+    {
+      "id": "b431e023",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_277.tga"
+    },
+    {
+      "id": "b5f19e34",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_276.tga"
+    },
+    {
+      "id": "b64dbabe",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_273.tga"
+    },
+    {
+      "id": "b69530c4",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_273.tga"
+    },
+    {
+      "id": "b824b7a9",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_280.tga"
+    },
+    {
+      "id": "ba0ea8b7",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_257.tga"
+    },
+    {
+      "id": "bd177517",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_301.tga"
+    },
+    {
+      "id": "bdcf5f0a",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_234.tga"
+    },
+    {
+      "id": "bdeb328b",
+      "input": [
+        "water",
+        "water",
+        "stone_wall",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water"
+      ],
+      "output": "tiles\\greenandsnow\\water\\greenandsnow_181.tga"
+    },
+    {
+      "id": "bdf0e28c",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_273.tga"
+    },
+    {
+      "id": "be11a7a5",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_299.tga"
+    },
+    {
+      "id": "bf42273f",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_297.tga"
+    },
+    {
+      "id": "bfda75bc",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "stone_wall",
+        "grass",
+        "stone_wall",
+        "water"
+      ],
+      "output": "tiles\\greenandsnow\\green\\greenandsnow_91.tga"
+    },
+    {
+      "id": "bfef45c0",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_252.tga"
+    },
+    {
+      "id": "c0aa9ff3",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_275.tga"
+    },
+    {
+      "id": "c10c7cee",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_207.tga"
+    },
+    {
+      "id": "c23139f0",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_297.tga"
+    },
+    {
+      "id": "c2ee0a52",
+      "input": [
+        "stone_wall",
+        "stone_wall",
+        "grass",
+        "water",
+        "water",
+        "stone_wall",
+        "water",
+        "water",
+        "water"
+      ],
+      "output": "tiles\\greenandsnow\\water\\greenandsnow_270.tga"
+    },
+    {
+      "id": "c3898fba",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_296.tga"
+    },
+    {
+      "id": "c4e4cb9b",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_276.tga"
+    },
+    {
+      "id": "c5bd7fa8",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_299.tga"
+    },
+    {
+      "id": "c6de9ffe",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_300.tga"
+    },
+    {
+      "id": "c7521b53",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_274.tga"
+    },
+    {
+      "id": "c79364b4",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_277.tga"
+    },
+    {
+      "id": "c7a6b203",
+      "input": [
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "void",
+        "void",
+        "void",
+        "void",
+        "void"
+      ],
+      "output": "tiles\\floor-floating.tga"
+    },
+    {
+      "id": "c85f88ca",
+      "input": [
+        "stone_wall",
+        "water",
+        "stone_wall",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water"
+      ],
+      "output": "tiles\\greenandsnow\\water\\greenandsnow_201.tga"
+    },
+    {
+      "id": "c959ba5c",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_296.tga"
+    },
+    {
+      "id": "cae46aac",
+      "input": [
+        "dungeon_floor",
+        "void",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor"
+      ],
+      "output": "tiles\\floor-top-1.tga"
+    },
+    {
+      "id": "cd0e30e4",
+      "input": [
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor"
+      ],
+      "output": "tiles\\floor-right-1.tga"
+    },
+    {
+      "id": "ce4b61a8",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_300.tga"
+    },
+    {
+      "id": "cea67ecb",
+      "input": [
+        "void",
+        "void",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor"
+      ],
+      "output": "tiles\\floor-top-1.tga"
+    },
+    {
+      "id": "ced21ddc",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_295.tga"
+    },
+    {
+      "id": "cfbb78f8",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_300.tga"
+    },
+    {
+      "id": "d034c295",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_187.tga"
+    },
+    {
+      "id": "d0415a0c",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_280.tga"
+    },
+    {
+      "id": "d19da555",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_300.tga"
+    },
+    {
+      "id": "d20e8c65",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_299.tga"
+    },
+    {
+      "id": "d21c7a75",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_299.tga"
+    },
+    {
+      "id": "d2e1d827",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_233.tga"
+    },
+    {
+      "id": "d42e16c5",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_188.tga"
+    },
+    {
+      "id": "d520e43b",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_278.tga"
+    },
+    {
+      "id": "d554a8cb",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_278.tga"
+    },
+    {
+      "id": "d62af0cc",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_296.tga"
+    },
+    {
+      "id": "d6ba2867",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_235.tga"
+    },
+    {
+      "id": "d6e21e1c",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_279.tga"
+    },
+    {
+      "id": "d6fd17c0",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_258.tga"
+    },
+    {
+      "id": "d7db2665",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_300.tga"
+    },
+    {
+      "id": "d8540e91",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_229.tga"
+    },
+    {
+      "id": "d90bbe6a",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_274.tga"
+    },
+    {
+      "id": "da3afa80",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_253.tga"
+    },
+    {
+      "id": "db217437",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_255.tga"
+    },
+    {
+      "id": "dc5f89a1",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_279.tga"
+    },
+    {
+      "id": "dcf00e5c",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_276.tga"
+    },
+    {
+      "id": "ddd33d8e",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_297.tga"
+    },
+    {
+      "id": "df48de9b",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_298.tga"
+    },
+    {
+      "id": "dfcf74eb",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "stone_wall"
+      ],
+      "output": "tiles\\greenandsnow\\green\\greenandsnow_02.tga"
+    },
+    {
+      "id": "e1133aec",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_279.tga"
+    },
+    {
+      "id": "e292bf39",
+      "input": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_231.tga"
+    },
+    {
+      "id": "e307b0ec",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_278.tga"
+    },
+    {
+      "id": "e34175c9",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_275.tga"
+    },
+    {
+      "id": "e3df0620",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_236.tga"
+    },
+    {
+      "id": "e42017b",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_212.tga"
+    },
+    {
+      "id": "e4ceaf5a",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_256.tga"
+    },
+    {
+      "id": "e52b1f1f",
+      "input": [
+        "void",
+        "void",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void"
+      ],
+      "output": "tiles\\floor-top-right.tga"
+    },
+    {
+      "id": "e5d9013e",
+      "input": [
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_297.tga"
+    },
+    {
+      "id": "e68d5924",
+      "input": [
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "void",
+        "void",
+        "void",
+        "void",
+        "void"
+      ],
+      "output": "tiles\\floor-floating.tga"
+    },
+    {
+      "id": "e759f970",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_301.tga"
+    },
+    {
+      "id": "e8066d93",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_277.tga"
+    },
+    {
+      "id": "e864e6d3",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_280.tga"
+    },
+    {
+      "id": "e88b94f6",
+      "input": [
+        "void",
+        "void",
+        "void",
+        "dungeon_floor",
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "void",
+        "void"
+      ],
+      "output": "tiles\\floor-narrow-horizontal.tga"
+    },
+    {
+      "id": "e92b45b4",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_214.tga"
+    },
+    {
+      "id": "e9701213",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_276.tga"
+    },
+    {
+      "id": "e9743e07",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_236.tga"
+    },
+    {
+      "id": "e9e0b68b",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_297.tga"
+    },
+    {
+      "id": "ea386ab6",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_300.tga"
+    },
+    {
+      "id": "ea3d5759",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_273.tga"
+    },
+    {
+      "id": "eb2a5d2b",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_210.tga"
+    },
+    {
+      "id": "ef3f1230",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_257.tga"
+    },
+    {
+      "id": "ef6c4991",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_232.tga"
+    },
+    {
+      "id": "f04a356b",
+      "input": [
+        "dungeon_floor",
+        "dungeon_floor",
+        "void",
+        "void",
+        "void",
+        "void",
+        "void",
+        "void",
+        "void"
+      ],
+      "output": "tiles\\floor-floating.tga"
+    },
+    {
+      "id": "f27c4e3",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_296.tga"
+    },
+    {
+      "id": "f38b154a",
+      "input": [
+        "grass",
+        "water",
+        "water",
+        "stone_wall",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water"
+      ],
+      "output": "tiles\\greenandsnow\\water\\greenandsnow_223.tga"
+    },
+    {
+      "id": "f4f6a32f",
+      "input": [
+        "grass",
+        "stone_wall",
+        "water",
+        "stone_wall",
+        "water",
+        "water",
+        "water",
+        "water",
+        "water"
+      ],
+      "output": "tiles\\greenandsnow\\water\\greenandsnow_269.tga"
+    },
+    {
+      "id": "f667744b",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_273.tga"
+    },
+    {
+      "id": "f69bc4f3",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_295.tga"
+    },
+    {
+      "id": "f87a55ae",
+      "input": [
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_208.tga"
+    },
+    {
+      "id": "f9c3bfb5",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_297.tga"
+    },
+    {
+      "id": "f9d0af8b",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_213.tga"
+    },
+    {
+      "id": "fc90656c",
+      "input": [
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_301.tga"
+    },
+    {
+      "id": "fda7086e",
+      "input": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "stone_wall",
+        "grass",
+        "grass",
+        "water"
+      ],
+      "output": "tiles\\greenandsnow\\green\\greenandsnow_45.tga"
+    },
+    {
+      "id": "fe43008e",
+      "input": [
+        "grass",
+        "dirt",
+        "grass",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_209.tga"
+    },
+    {
+      "id": "fe9cb7fe",
+      "input": [
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "dirt",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_298.tga"
+    },
+    {
+      "id": "ff691999",
+      "input": [
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "dirt",
+        "grass",
+        "grass",
+        "dirt",
+        "grass"
+      ],
+      "output": "tiles\\greenandsnow\\dirt\\greenandsnow_296.tga"
+    }
+  ]
+}

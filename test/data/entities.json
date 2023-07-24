@@ -1,0 +1,770 @@
+{
+  "Root" : 
+  [
+    {
+      "anchor" : "Center",
+      "collidable" : false,
+      "collisionResponse" : "Block",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "hitboxRadius" : 0.15000000596046448,
+      "hitboxSize" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "hitboxType" : "Circle",
+      "influenceRadius" : 0.15000000596046448,
+      "lightColor" : "4cff4c",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : -0.85000002384185791
+      },
+      "lightRadius" : 1.399999737739563,
+      "moveSpeedPerSec" : 2.0,
+      "name" : "Bee",
+      "renderOffset" : 
+      {
+        "x" : 0.0,
+        "y" : -0.85000002384185791
+      },
+      "renderable" : true,
+      "restitution" : 0.0,
+      "script" : "bee.script",
+      "scriptable" : true,
+      "shadowScale" : 0.35000002384185791,
+      "texture" : "wildlife\\bee.tga",
+      "textureBackLeft" : "",
+      "textureBackRight" : "",
+      "textureForeground" : "",
+      "textureLeft" : "wildlife\\bee-left.tga",
+      "textureRight" : "wildlife\\bee-right.tga"
+    },
+    {
+      "anchor" : "Bottom",
+      "collidable" : true,
+      "collisionResponse" : "Block",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.0,
+        "y" : -0.25
+      },
+      "hitboxRadius" : 0.0,
+      "hitboxSize" : 
+      {
+        "x" : 0.89999997615814209,
+        "y" : 0.5
+      },
+      "hitboxType" : "Box",
+      "influenceRadius" : 0.69999998807907104,
+      "lightColor" : "ffffff",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "lightRadius" : 0.0,
+      "moveSpeedPerSec" : 0.0,
+      "name" : "Chest",
+      "renderOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.10000000149011612
+      },
+      "renderable" : true,
+      "restitution" : 0.0,
+      "script" : "",
+      "scriptable" : false,
+      "shadowScale" : 1.1499999761581421,
+      "texture" : "props\\chests\\chest.tga",
+      "textureBackLeft" : "",
+      "textureBackRight" : "",
+      "textureForeground" : "",
+      "textureLeft" : "",
+      "textureRight" : ""
+    },
+    {
+      "anchor" : "Center",
+      "collidable" : false,
+      "collisionResponse" : "Block",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "hitboxRadius" : 0.0,
+      "hitboxSize" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "hitboxType" : "Circle",
+      "influenceRadius" : 0.89999997615814209,
+      "lightColor" : "ffffff",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "lightRadius" : 0.0,
+      "moveSpeedPerSec" : 0.0,
+      "name" : "DroppedItem",
+      "renderOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "renderable" : true,
+      "restitution" : 0.0,
+      "script" : "",
+      "scriptable" : false,
+      "shadowScale" : 0.0,
+      "texture" : "",
+      "textureBackLeft" : "",
+      "textureBackRight" : "",
+      "textureForeground" : "",
+      "textureLeft" : "",
+      "textureRight" : ""
+    },
+    {
+      "anchor" : "Center",
+      "collidable" : true,
+      "collisionResponse" : "Trigger",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.0,
+        "y" : -0.15000000596046448
+      },
+      "hitboxRadius" : 0.40000000596046448,
+      "hitboxSize" : 
+      {
+        "x" : 0.85000002384185791,
+        "y" : 0.30000001192092896
+      },
+      "hitboxType" : "Box",
+      "influenceRadius" : 0.60000002384185791,
+      "lightColor" : "ffffff",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "lightRadius" : 0.0,
+      "moveSpeedPerSec" : 0.0,
+      "name" : "Grass",
+      "renderOffset" : 
+      {
+        "x" : 0.0,
+        "y" : -0.25
+      },
+      "renderable" : true,
+      "restitution" : 0.0,
+      "script" : "grass.script",
+      "scriptable" : true,
+      "shadowScale" : 0.95000016689300537,
+      "texture" : "props\\grass_tuft.tga",
+      "textureBackLeft" : "",
+      "textureBackRight" : "",
+      "textureForeground" : "",
+      "textureLeft" : "",
+      "textureRight" : ""
+    },
+    {
+      "anchor" : "Bottom",
+      "collidable" : true,
+      "collisionResponse" : "Block",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.0,
+        "y" : -2.0
+      },
+      "hitboxRadius" : 0.0,
+      "hitboxSize" : 
+      {
+        "x" : 6.0,
+        "y" : 4.0
+      },
+      "hitboxType" : "Box",
+      "influenceRadius" : 0.80000001192092896,
+      "lightColor" : "ffffff",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "lightRadius" : 0.0,
+      "moveSpeedPerSec" : 0.0,
+      "name" : "House",
+      "renderOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "renderable" : true,
+      "restitution" : 0.0,
+      "script" : "",
+      "scriptable" : false,
+      "shadowScale" : 0.0,
+      "texture" : "props\\house3.tga",
+      "textureBackLeft" : "",
+      "textureBackRight" : "",
+      "textureForeground" : "",
+      "textureLeft" : "",
+      "textureRight" : ""
+    },
+    {
+      "anchor" : "Bottom",
+      "collidable" : true,
+      "collisionResponse" : "Block",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.0,
+        "y" : -2.25
+      },
+      "hitboxRadius" : 0.0,
+      "hitboxSize" : 
+      {
+        "x" : 4.0,
+        "y" : 4.0
+      },
+      "hitboxType" : "Box",
+      "influenceRadius" : 0.80000001192092896,
+      "lightColor" : "ffffff",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "lightRadius" : 0.0,
+      "moveSpeedPerSec" : 0.0,
+      "name" : "House2",
+      "renderOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "renderable" : true,
+      "restitution" : 0.0,
+      "script" : "",
+      "scriptable" : false,
+      "shadowScale" : 0.0,
+      "texture" : "props\\house2.tga",
+      "textureBackLeft" : "",
+      "textureBackRight" : "",
+      "textureForeground" : "",
+      "textureLeft" : "",
+      "textureRight" : ""
+    },
+    {
+      "anchor" : "Bottom",
+      "collidable" : true,
+      "collisionResponse" : "Block",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.0,
+        "y" : -2.75
+      },
+      "hitboxRadius" : 0.0,
+      "hitboxSize" : 
+      {
+        "x" : 6.0,
+        "y" : 5.0
+      },
+      "hitboxType" : "Box",
+      "influenceRadius" : 0.80000001192092896,
+      "lightColor" : "ffffff",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "lightRadius" : 0.0,
+      "moveSpeedPerSec" : 0.0,
+      "name" : "House3",
+      "renderOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "renderable" : true,
+      "restitution" : 0.0,
+      "script" : "",
+      "scriptable" : false,
+      "shadowScale" : 0.0,
+      "texture" : "props\\grass_tuft.tga",
+      "textureBackLeft" : "",
+      "textureBackRight" : "",
+      "textureForeground" : "",
+      "textureLeft" : "",
+      "textureRight" : ""
+    },
+    {
+      "anchor" : "Center",
+      "collidable" : true,
+      "collisionResponse" : "Block",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "hitboxRadius" : 0.60000002384185791,
+      "hitboxSize" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "hitboxType" : "Circle",
+      "influenceRadius" : 2.0,
+      "lightColor" : "ffffff",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "lightRadius" : 0.0,
+      "moveSpeedPerSec" : 0.0,
+      "name" : "Monster",
+      "renderOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "renderable" : true,
+      "restitution" : 0.0,
+      "script" : "",
+      "scriptable" : false,
+      "shadowScale" : 0.0,
+      "texture" : "enemies\\skull.tga",
+      "textureBackLeft" : "",
+      "textureBackRight" : "",
+      "textureForeground" : "",
+      "textureLeft" : "",
+      "textureRight" : ""
+    },
+    {
+      "anchor" : "Bottom",
+      "collidable" : true,
+      "collisionResponse" : "Block",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.0,
+        "y" : -0.25
+      },
+      "hitboxRadius" : 0.35000002384185791,
+      "hitboxSize" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "hitboxType" : "Circle",
+      "influenceRadius" : 0.60000002384185791,
+      "lightColor" : "ffffff",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "lightRadius" : 0.0,
+      "moveSpeedPerSec" : 0.0,
+      "name" : "Mushroom",
+      "renderOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.20000000298023224
+      },
+      "renderable" : true,
+      "restitution" : 0.0,
+      "script" : "",
+      "scriptable" : false,
+      "shadowScale" : 1.0000001192092896,
+      "texture" : "props\\mushroom.tga",
+      "textureBackLeft" : "",
+      "textureBackRight" : "",
+      "textureForeground" : "",
+      "textureLeft" : "",
+      "textureRight" : ""
+    },
+    {
+      "anchor" : "Bottom",
+      "collidable" : true,
+      "collisionResponse" : "Block",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "hitboxRadius" : 0.60000002384185791,
+      "hitboxSize" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "hitboxType" : "Circle",
+      "influenceRadius" : 0.89999997615814209,
+      "lightColor" : "ffffff",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "lightRadius" : 0.0,
+      "moveSpeedPerSec" : 0.0,
+      "name" : "NPC",
+      "renderOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.15000000596046448
+      },
+      "renderable" : true,
+      "restitution" : 0.0,
+      "script" : "",
+      "scriptable" : false,
+      "shadowScale" : 1.2999998331069946,
+      "texture" : "characters\\mage-red.tga",
+      "textureBackLeft" : "",
+      "textureBackRight" : "",
+      "textureForeground" : "",
+      "textureLeft" : "",
+      "textureRight" : ""
+    },
+    {
+      "anchor" : "Bottom",
+      "collidable" : true,
+      "collisionResponse" : "Block",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.0,
+        "y" : -0.30000001192092896
+      },
+      "hitboxRadius" : 0.39999997615814209,
+      "hitboxSize" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "hitboxType" : "Circle",
+      "influenceRadius" : 0.69999998807907104,
+      "lightColor" : "ffffff",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "lightRadius" : 0.0,
+      "moveSpeedPerSec" : 4.0,
+      "name" : "Player",
+      "renderOffset" : 
+      {
+        "x" : -0.15000000596046448,
+        "y" : 0.15000000596046448
+      },
+      "renderable" : true,
+      "restitution" : 0.0,
+      "script" : "",
+      "scriptable" : false,
+      "shadowScale" : 0.85000014305114746,
+      "texture" : "characters\\knight\\knight-left.tga",
+      "textureBackLeft" : "characters\\knight\\knight-back-left.tga",
+      "textureBackRight" : "characters\\knight\\knight-back-right.tga",
+      "textureForeground" : "",
+      "textureLeft" : "characters\\knight\\knight-left.tga",
+      "textureRight" : "characters\\knight\\knight-right.tga"
+    },
+    {
+      "anchor" : "Center",
+      "collidable" : false,
+      "collisionResponse" : "Block",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "hitboxRadius" : 0.0,
+      "hitboxSize" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "hitboxType" : "Circle",
+      "influenceRadius" : 1.0,
+      "lightColor" : "ffffff",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "lightRadius" : 0.0,
+      "moveSpeedPerSec" : 0.0,
+      "name" : "PlayerSpawn",
+      "renderOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "renderable" : false,
+      "restitution" : 0.0,
+      "script" : "",
+      "scriptable" : false,
+      "shadowScale" : 0.0,
+      "texture" : "",
+      "textureBackLeft" : "",
+      "textureBackRight" : "",
+      "textureForeground" : "",
+      "textureLeft" : "",
+      "textureRight" : ""
+    },
+    {
+      "anchor" : "Bottom",
+      "collidable" : true,
+      "collisionResponse" : "Block",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.05000000074505806,
+        "y" : -0.15000000596046448
+      },
+      "hitboxRadius" : 0.35000002384185791,
+      "hitboxSize" : 
+      {
+        "x" : 0.89999997615814209,
+        "y" : 0.60000002384185791
+      },
+      "hitboxType" : "Circle",
+      "influenceRadius" : 0.69999998807907104,
+      "lightColor" : "ffffff",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "lightRadius" : 0.0,
+      "moveSpeedPerSec" : 0.0,
+      "name" : "Rock",
+      "renderOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.30000001192092896
+      },
+      "renderable" : true,
+      "restitution" : 0.0,
+      "script" : "rock.script",
+      "scriptable" : true,
+      "shadowScale" : 1.2999998331069946,
+      "texture" : "props\\rock1.tga",
+      "textureBackLeft" : "",
+      "textureBackRight" : "",
+      "textureForeground" : "",
+      "textureLeft" : "",
+      "textureRight" : ""
+    },
+    {
+      "anchor" : "Bottom",
+      "collidable" : true,
+      "collisionResponse" : "Block",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.0,
+        "y" : -0.42500001192092896
+      },
+      "hitboxRadius" : 0.0,
+      "hitboxSize" : 
+      {
+        "x" : 1.0,
+        "y" : 1.0
+      },
+      "hitboxType" : "Box",
+      "influenceRadius" : 0.69999998807907104,
+      "lightColor" : "ffffff",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "lightRadius" : 0.0,
+      "moveSpeedPerSec" : 0.0,
+      "name" : "Sign",
+      "renderOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.10000000149011612
+      },
+      "renderable" : true,
+      "restitution" : 0.0,
+      "script" : "",
+      "scriptable" : false,
+      "shadowScale" : 0.60000002384185791,
+      "texture" : "props\\sign.tga",
+      "textureBackLeft" : "",
+      "textureBackRight" : "",
+      "textureForeground" : "",
+      "textureLeft" : "",
+      "textureRight" : ""
+    },
+    {
+      "anchor" : "Bottom",
+      "collidable" : true,
+      "collisionResponse" : "Block",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.0,
+        "y" : -0.10000000149011612
+      },
+      "hitboxRadius" : 0.40000003576278687,
+      "hitboxSize" : 
+      {
+        "x" : 0.89999997615814209,
+        "y" : 0.75
+      },
+      "hitboxType" : "Circle",
+      "influenceRadius" : 0.69999998807907104,
+      "lightColor" : "ffffff",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "lightRadius" : 0.0,
+      "moveSpeedPerSec" : 0.0,
+      "name" : "Stump",
+      "renderOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.34999999403953552
+      },
+      "renderable" : true,
+      "restitution" : 0.0,
+      "script" : "",
+      "scriptable" : false,
+      "shadowScale" : 1.1499999761581421,
+      "texture" : "props\\stump.tga",
+      "textureBackLeft" : "",
+      "textureBackRight" : "",
+      "textureForeground" : "",
+      "textureLeft" : "",
+      "textureRight" : ""
+    },
+    {
+      "anchor" : "Bottom",
+      "collidable" : false,
+      "collisionResponse" : "Block",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "hitboxRadius" : 0.40000000596046448,
+      "hitboxSize" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "hitboxType" : "Circle",
+      "influenceRadius" : 0.60000002384185791,
+      "lightColor" : "fff076",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : -0.69999998807907104
+      },
+      "lightRadius" : 5.0,
+      "moveSpeedPerSec" : 0.0,
+      "name" : "Torch",
+      "renderOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.05000000074505806
+      },
+      "renderable" : true,
+      "restitution" : 0.0,
+      "script" : "torch.script",
+      "scriptable" : true,
+      "shadowScale" : 0.35000002384185791,
+      "texture" : "props\\tools\\torch.tga",
+      "textureBackLeft" : "",
+      "textureBackRight" : "",
+      "textureForeground" : "",
+      "textureLeft" : "",
+      "textureRight" : ""
+    },
+    {
+      "anchor" : "Center",
+      "collidable" : true,
+      "collisionResponse" : "Block",
+      "friction" : 5.0,
+      "gravity" : 20.0,
+      "hitboxOffset" : 
+      {
+        "x" : 0.0,
+        "y" : -0.10000000149011612
+      },
+      "hitboxRadius" : 0.40000003576278687,
+      "hitboxSize" : 
+      {
+        "x" : 1.0,
+        "y" : 0.60000002384185791
+      },
+      "hitboxType" : "Circle",
+      "influenceRadius" : 0.89999997615814209,
+      "lightColor" : "ffffff",
+      "lightOffset" : 
+      {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "lightRadius" : 0.0,
+      "moveSpeedPerSec" : 0.0,
+      "name" : "Tree",
+      "renderOffset" : 
+      {
+        "x" : 0.0,
+        "y" : -1.4500000476837158
+      },
+      "renderable" : true,
+      "restitution" : 0.0,
+      "script" : "",
+      "scriptable" : false,
+      "shadowScale" : 0.95000016689300537,
+      "texture" : "props\\tree.tga",
+      "textureBackLeft" : "",
+      "textureBackRight" : "",
+      "textureForeground" : "props\\tree-foreground.tga",
+      "textureLeft" : "",
+      "textureRight" : ""
+    }
+  ]
+}

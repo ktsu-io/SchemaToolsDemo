@@ -1,0 +1,162 @@
+{
+  "SchemaPath": "..\\schema\\mount_supply.schema.json",
+  "RootSchemaMember": {
+    "Name": "Root",
+    "Typename": "array",
+    "Description": "",
+    "EnumProperties": {
+      "Name": ""
+    },
+    "ArrayProperties": {
+      "ElementTypename": "MountSupply",
+      "Container": "cmVectorMap",
+      "Key": "name"
+    }
+  },
+  "Root": [
+    {
+      "name": "Barding: Padded",
+      "cost": 2000,
+      "weight": 16,
+      "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
+    },
+    {
+      "name": "Barding: Leather",
+      "cost": 4000,
+      "weight": 20,
+      "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
+    },
+    {
+      "name": "Barding: Studded Leather",
+      "cost": 18000,
+      "weight": 26,
+      "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
+    },
+    {
+      "name": "Barding: Hide",
+      "cost": 4000,
+      "weight": 24,
+      "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
+    },
+    {
+      "name": "Barding: Chain shirt",
+      "cost": 20000,
+      "weight": 40,
+      "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
+    },
+    {
+      "name": "Barding: Scale mail",
+      "cost": 20000,
+      "weight": 90,
+      "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
+    },
+    {
+      "name": "Barding: Breastplate",
+      "cost": 160000,
+      "weight": 40,
+      "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
+    },
+    {
+      "name": "Barding: Half plate",
+      "cost": 300000,
+      "weight": 80,
+      "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
+    },
+    {
+      "name": "Barding: Ring mail",
+      "cost": 1200,
+      "weight": 80,
+      "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
+    },
+    {
+      "name": "Barding: Chain mail",
+      "cost": 30000,
+      "weight": 110,
+      "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
+    },
+    {
+      "name": "Barding: Splint",
+      "cost": 80000,
+      "weight": 120,
+      "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
+    },
+    {
+      "name": "Barding: Plate",
+      "cost": 600000,
+      "weight": 130,
+      "description": "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
+    },
+    {
+      "name": "Bit and bridle",
+      "cost": 200,
+      "weight": 0,
+      "description": ""
+    },
+    {
+      "name": "Carriage",
+      "cost": 10000,
+      "weight": 60,
+      "description": ""
+    },
+    {
+      "name": "Cart",
+      "cost": 1500,
+      "weight": 20,
+      "description": ""
+    },
+    {
+      "name": "Chariot",
+      "cost": 25000,
+      "weight": 10,
+      "description": ""
+    },
+    {
+      "name": "Animal Feed (1 day)",
+      "cost": 5,
+      "weight": 1,
+      "description": ""
+    },
+    {
+      "name": "Saddle, Exotic",
+      "cost": 6000,
+      "weight": 50,
+      "description": "A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount."
+    },
+    {
+      "name": "Saddle, Military",
+      "cost": 2000,
+      "weight": 30,
+      "description": "A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount."
+    },
+    {
+      "name": "Saddle, Pack",
+      "cost": 500,
+      "weight": 15,
+      "description": "A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount."
+    },
+    {
+      "name": "Riding",
+      "cost": 1000,
+      "weight": 2,
+      "description": ""
+    },
+    {
+      "name": "Saddlebags",
+      "cost": 400,
+      "weight": 0,
+      "description": ""
+    },
+    {
+      "name": "Sled",
+      "cost": 2000,
+      "weight": 30,
+      "description": ""
+    },
+    {
+      "name": "Stabling (1 day)",
+      "cost": 50,
+      "weight": 0,
+      "description": ""
+    }
+  ]
+}

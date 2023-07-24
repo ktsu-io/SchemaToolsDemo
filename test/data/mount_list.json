@@ -1,0 +1,54 @@
+{
+  "SchemaPath": "..\\schema\\mount.schema.json",
+  "RootSchemaMember": {
+    "Name": "Root",
+    "Typename": "array",
+    "Description": "",
+    "EnumProperties": {
+      "Name": ""
+    },
+    "ArrayProperties": {
+      "ElementTypename": "Mount",
+      "Container": "cmVectorMap",
+      "Key": "name"
+    }
+  },
+  "Root": [
+    {
+      "name": "Camel",
+      "cost": 5000
+    },
+    {
+      "name": "Donkey",
+      "cost": 800
+    },
+    {
+      "name": "Mule",
+      "cost": 800
+    },
+    {
+      "name": "Elephant",
+      "cost": 20000
+    },
+    {
+      "name": "Horse, draft",
+      "cost": 5000
+    },
+    {
+      "name": "Horse, riding",
+      "cost": 7500
+    },
+    {
+      "name": "Mastiff",
+      "cost": 2500
+    },
+    {
+      "name": "Pony",
+      "cost": 3000
+    },
+    {
+      "name": "Warhorse",
+      "cost": 40000
+    }
+  ]
+}

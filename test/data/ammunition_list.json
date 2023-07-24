@@ -1,0 +1,38 @@
+{
+  "SchemaPath": "..\\schema\\ammunition.schema.json",
+  "RootSchemaMember": {
+    "Name": "Root",
+    "Typename": "array",
+    "Description": "",
+    "EnumProperties": {
+      "Name": ""
+    },
+    "ArrayProperties": {
+      "ElementTypename": "Ammunition",
+      "Container": "cmVectorMap",
+      "Key": "name"
+    }
+  },
+  "Root": [
+    {
+      "name": "Arrow",
+      "cost": 5,
+      "weight": 1
+    },
+    {
+      "name": "Blowgun needle",
+      "cost": 2,
+      "weight": 1
+    },
+    {
+      "name": "Crossbow bolt",
+      "cost": 5,
+      "weight": 1.5
+    },
+    {
+      "name": "Sling bullet",
+      "cost": 1,
+      "weight": 1.5
+    }
+  ]
+}
