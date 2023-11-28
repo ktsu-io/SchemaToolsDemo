@@ -1,3 +1,3 @@
 [submodule "SchemaTools"]
 	path = SchemaTools
-	url = git@github.com:ktsu-io/SchemaTools.git
+	url = https://github.com/ktsu-io/SchemaTools.git
