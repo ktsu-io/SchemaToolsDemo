@@ -1,0 +1,279 @@
+{
+  "RelativePaths": {
+    "RelativeProjectRootPath": "../../",
+    "RelativeDataSourcePath": "test/data/"
+  },
+  "Classes": [
+    {
+      "Members": [
+        {
+          "Type": {
+            "TypeName": "String",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "Name"
+        },
+        {
+          "Type": {
+            "TypeName": "Enum",
+            "EnumName": "CreatureSize",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "Size"
+        },
+        {
+          "Type": {
+            "TypeName": "Enum",
+            "EnumName": "CreatureType",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "Type"
+        },
+        {
+          "Type": {
+            "TypeName": "Enum",
+            "EnumName": "CreatureSubType",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "SubType"
+        },
+        {
+          "Type": {
+            "TypeName": "Enum",
+            "EnumName": "CreatureAlignment",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "Alignment"
+        },
+        {
+          "Type": {
+            "TypeName": "Int",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "ArmorClass"
+        },
+        {
+          "Type": {
+            "TypeName": "Int",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "HitPoints"
+        },
+        {
+          "Type": {
+            "TypeName": "Int",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "HitDice"
+        },
+        {
+          "Type": {
+            "TypeName": "Array",
+            "ElementType": {
+              "TypeName": "String",
+              "Name": ""
+            },
+            "Container": "",
+            "Key": "",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "Speed"
+        },
+        {
+          "Type": {
+            "TypeName": "Int",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "Strength"
+        },
+        {
+          "Type": {
+            "TypeName": "Int",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "Dexterity"
+        },
+        {
+          "Type": {
+            "TypeName": "Int",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "Constitution"
+        },
+        {
+          "Type": {
+            "TypeName": "Int",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "Intelligence"
+        },
+        {
+          "Type": {
+            "TypeName": "Int",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "Wisdom"
+        },
+        {
+          "Type": {
+            "TypeName": "Int",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "Charisma"
+        }
+      ],
+      "Name": "Monster"
+    },
+    {
+      "Members": [
+        {
+          "Type": {
+            "TypeName": "String",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "Name"
+        },
+        {
+          "Type": {
+            "TypeName": "Int",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "Cost"
+        }
+      ],
+      "Name": "Mount"
+    },
+    {
+      "Members": [
+        {
+          "Type": {
+            "TypeName": "String",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "Name"
+        },
+        {
+          "Type": {
+            "TypeName": "Int",
+            "Name": ""
+          },
+          "Description": "",
+          "Name": "Cost"
+        }
+      ],
+      "Name": "Weapon"
+    }
+  ],
+  "Enums": [
+    {
+      "Values": [
+        "Tiny",
+        "Small",
+        "Medium",
+        "Large",
+        "Huge",
+        "Gargantuan"
+      ],
+      "Name": "CreatureSize"
+    },
+    {
+      "Values": [
+        "Aberration",
+        "Humanoid",
+        "Dragon",
+        "Undead",
+        "Elemental",
+        "Monstrosity",
+        "Construct",
+        "Beast",
+        "Plant",
+        "Fiend",
+        "Ooze",
+        "Fey",
+        "Giant",
+        "Celestial",
+        "SwarmOfTinyBeasts"
+      ],
+      "Name": "CreatureType"
+    },
+    {
+      "Values": [
+        "None",
+        "AnyRace",
+        "Demon",
+        "Devil",
+        "Goblinoid",
+        "Gnome",
+        "Shapechanger",
+        "Elf",
+        "Dwarf",
+        "Gnoll",
+        "Grimlock",
+        "Human",
+        "Kobold",
+        "Titan",
+        "Lizardfolk",
+        "Merfolk",
+        "Orc",
+        "Sahuagin"
+      ],
+      "Name": "CreatureSubType"
+    },
+    {
+      "Values": [
+        "LawfulGood",
+        "NeutralGood",
+        "ChaoticGood",
+        "LawfulNeutral",
+        "Neutral",
+        "ChaoticNeutral",
+        "LawfulEvil",
+        "NeutralEvil",
+        "ChaoticEvil",
+        "Unaligned",
+        "Any",
+        "AnyEvil",
+        "AnyChaotic",
+        "AnyNeutral",
+        "AnyLawful",
+        "AnyGood",
+        "AnyNonEvil",
+        "AnyNonChaotic",
+        "AnyNonNeutral",
+        "AnyNonLawful",
+        "AnyNonGood"
+      ],
+      "Name": "CreatureAlignment"
+    }
+  ],
+  "DataSources": [
+    {
+      "RootSchemaMember": {
+        "Type": {
+          "TypeName": "None",
+          "Name": ""
+        },
+        "Description": ""
+      },
+      "Name": "Monsters"
+    }
+  ]
+}

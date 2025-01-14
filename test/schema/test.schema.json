@@ -1,88 +1,63 @@
 {
+  "RelativePaths": {
+    "RelativeProjectRootPath": "../../",
+    "RelativeDataSourcePath": "test/data/"
+  },
   "Classes": [
     {
-      "Name": "Car",
-      "Members": [
-        {
-          "Name": "Make",
-          "Typename": "string",
-          "Description": "The manufacturer the car (eg. Ford)"
-        },
-        {
-          "Name": "Model",
-          "Typename": "string",
-          "Description": "The model name of the car (eg. Fiesta)"
-        },
-        {
-          "Name": "Year",
-          "Typename": "int",
-          "Description": "The year of the car (eg. 2018)"
-        },
-        {
-          "Name": "Internal",
-          "Typename": "CarInternal",
-          "Description": ""
-        },
-        {
-          "Name": "CarInternals",
-          "Typename": "array",
-          "Description": "",
-          "ArrayProperties": {
-            "ElementTypename": "CarInternal"
-          }
-        }
-      ]
+      "Members": [],
+      "Name": "Monster"
+    }
+  ],
+  "Enums": [
+    {
+      "Values": [
+        "Tiny",
+        "Small",
+        "Medium",
+        "Large",
+        "Huge",
+        "Gargantuan"
+      ],
+      "Name": "CreatureSize"
     },
     {
-      "Name": "CarInternal",
-      "Members": [
-        {
-          "Name": "StringField",
-          "Typename": "string",
-          "Description": ""
-        },
-        {
-          "Name": "IntField",
-          "Typename": "int",
-          "Description": ""
-        },
-        {
-          "Name": "LongField",
-          "Typename": "long",
-          "Description": ""
-        },
-        {
-          "Name": "FloatField",
-          "Typename": "float",
-          "Description": ""
-        },
-        {
-          "Name": "DoubleField",
-          "Typename": "double",
-          "Description": ""
-        },
-        {
-          "Name": "EnumField",
-          "Typename": "enum",
-          "Description": "",
-          "EnumProperties": {
-            "Name": "SomeEnum",
-            "Values": [
-              "Enum1",
-              "Enum2",
-              "Enum3"
-            ]
-          }
-        },
-        {
-          "Name": "ArrayField",
-          "Typename": "array",
-          "Description": "",
-          "ArrayProperties": {
-            "ElementTypename": "string"
-          }
-        }
-      ]
+      "Values": [
+        "Aberration"
+      ],
+      "Name": "CreatureType"
+    },
+    {
+      "Values": [
+        "None"
+      ],
+      "Name": "CreatureSubType"
+    },
+    {
+      "Values": [
+        "LawfulGood",
+        "NeutralGood",
+        "ChaoticGood",
+        "LawfulNeutral",
+        "Neutral",
+        "ChaoticNeutral",
+        "LawfulEvil",
+        "NeutralEvil",
+        "ChaoticEvil",
+        "Unaligned",
+        "Any",
+        "AnyEvil",
+        "AnyChaotic",
+        "AnyNeutral",
+        "AnyLawful",
+        "AnyGood",
+        "AnyNonEvil",
+        "AnyNonChaotic",
+        "AnyNonNeutral",
+        "AnyNonLawful",
+        "AnyNonGood"
+      ],
+      "Name": "CreatureAlignment"
     }
   ]
 }
